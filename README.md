@@ -6,7 +6,7 @@ I build web applications, APIs, data pipelines and analytics solutions.
 
 
 Data Engineering
-London bus arrivals realtime data [streaminghttps://github.com/dan-griffiths-dev/tfl-streaming-pipeline]
+London bus arrivals realtime data streaming [https://github.com/dan-griffiths-dev/tfl-streaming-pipeline]
 
 Football Underdogs [https://github.com/dan-griffiths-dev/football_underdogs]
 

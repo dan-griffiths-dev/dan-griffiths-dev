@@ -21,7 +21,8 @@ Language Learners App [https://github.com/dan-griffiths-dev/promptcoding]
 Online booking platform for small businesses
 
 Mobile first
-Samasama is a mobile-first language acquisition platform built around pronunciation, intonation and enunciation training.
+Samasama is a language platform for intonation and enunciation training. [https://github.com/dan-griffiths-dev/Samasama]
+
 
 
 

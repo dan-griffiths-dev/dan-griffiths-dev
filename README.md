@@ -18,12 +18,5 @@ ML Trading Desk [https://github.com/dan-griffiths-dev/trading-desk-oop]
 
 Language Learners App [https://github.com/dan-griffiths-dev/promptcoding]
 
-Online booking platform for small businesses
-
-Mobile first
-Samasama is a language platform for intonation and enunciation training. [https://github.com/dan-griffiths-dev/Samasama]
-
-
-
 
 
